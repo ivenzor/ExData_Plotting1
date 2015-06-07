@@ -1,4 +1,4 @@
-# Code for plot1
+# Code for plot2
 #
 # please set working directory to the directory where 
 # household_power_consumption.txt is located
